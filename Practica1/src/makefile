@@ -7,8 +7,8 @@ JC = javac
 	$(JC) $(JFLAGS) $*.java
 
 CLASSES = \
-		  Principal.java \
-		  Matematicas.java
+		  aplicacion\Principal.java \
+		  mates\Matematicas.java
 
 default: classes
 
