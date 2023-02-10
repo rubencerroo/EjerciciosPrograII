@@ -7,8 +7,8 @@ JC = javac
 	$(JC) $(JFLAGS) $*.java
 
 CLASSES = \
-		  aplicacion\Principal.java \
-		  mates\Matematicas.java
+		  aplicacion/Principal.java \
+		  mates/Matematicas.java
 
 default: classes
 
@@ -18,4 +18,4 @@ clean:
 	$(RM) *.class
 	
 run:
-	java Principal 1000
+	java Principal.java 1000
