@@ -1,0 +1,4 @@
+El desbordamiento de pila ocurre cuando la cantidad de llamadas recursivas es demasiado grande y la memoria de la pila se llena.
+Si la cantidad de llamadas recursivas es demasiado grande, la pila se llena y se produce un desbordamiento de pila.
+Sin embargo, hay casos en los que una versión recursiva puede ser más clara y fácil de comprender que una versión no recursiva,
+en estos casos, puede ser aceptable sacrificar un poco de eficiencia en términos de memoria para mejorar la legibilidad del código.

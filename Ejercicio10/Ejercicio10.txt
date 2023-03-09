@@ -1,0 +1,4 @@
+En Java, una lista es una estructura de datos que permite almacenar y manipular una secuencia de elementos. 
+La interfaz List es una de las interfaces de colección en Java, que proporciona métodos para agregar, 
+eliminar y acceder a elementos en una lista. ArrayList es una implementación concreta de la interfaz List en Java. 
+Es una clase que proporciona una lista dinámica que puede crecer o disminuir según sea necesario.   
