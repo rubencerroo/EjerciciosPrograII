@@ -1,0 +1,1 @@
+Una expresión lambda es una función anónima que se utiliza para definir una operación o comportamiento específico en un contexto dado.
